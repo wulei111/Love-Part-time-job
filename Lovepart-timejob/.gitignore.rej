@@ -1,0 +1,9 @@
+diff a/Lovepart-timejob/.gitignore b/Lovepart-timejob/.gitignore	(rejected hunks)
+@@ -1,7 +0,0 @@
+-.gradle
+-/local.properties
+-/.idea/workspace.xml
+-/.idea/libraries
+-.DS_Store
+-/build
+-/captures
